@@ -22,7 +22,7 @@ public class MyController {
 	public String home() {
 		return "this is home page";
 	}
-	
+	 
 	
 	//getthecourses
 	@GetMapping("/courses")
