@@ -1,3 +1,14 @@
 # REST-API-Using-Spring-Boot
 
 Creating Rest API using spring boot
+
+
+The API allows user to get/post/delete courses from a list of courses setup on backend. 
+
+
+#Getting Courses 
+<img width="1059" alt="Screen Shot 2022-06-17 at 2 36 26 PM" src="https://user-images.githubusercontent.com/46352532/174357945-5269df84-df65-4bbd-b4de-cb04376899e5.png">
+
+#Adding Courses (Post Request)
+
+<img width="1047" alt="Screen Shot 2022-06-17 at 2 38 12 PM" src="https://user-images.githubusercontent.com/46352532/174358343-679ce8d3-8a92-4ce3-aa60-b643367b4da9.png">
