@@ -12,3 +12,5 @@ The API allows user to get/post/delete courses from a list of courses setup on b
 #Adding Courses (Post Request)
 
 <img width="1047" alt="Screen Shot 2022-06-17 at 2 38 12 PM" src="https://user-images.githubusercontent.com/46352532/174358343-679ce8d3-8a92-4ce3-aa60-b643367b4da9.png">
+
+<img width="1045" alt="Screen Shot 2022-06-17 at 2 39 19 PM" src="https://user-images.githubusercontent.com/46352532/174358446-32ffb238-f35c-4783-a4cb-8f14ad8055d0.png">
