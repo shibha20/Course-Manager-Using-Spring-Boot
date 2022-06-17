@@ -3,7 +3,7 @@
 Creating Rest API using spring boot
 
 
-The API allows user to get/post/delete courses from a list of courses setup on backend. 
+The API allows user to add and show courses from a list of courses setup on backend. 
 
 
 #Getting Courses 
